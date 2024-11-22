@@ -12,9 +12,8 @@
 			]
 		},
 		{
-			"Name": "AnimationToolsBundle",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ba24bb844a244b7e95a9e9f905a1ffd9"
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
